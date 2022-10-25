@@ -1,0 +1,75 @@
+{
+  "icons": {
+      "check": "https://cdn.discordapp.com/emojis/737967744976289802.png?v=1",
+      "cross": "https://cdn.discordapp.com/emojis/746448664347803648.png?v=1",
+      "error": "https://statsify.net/cdn/assets/error.gif",
+      "info": "https://statsify.net/cdn/assets/info.png",
+      "online": "https://statsify.net/cdn/assets/online.png",
+      "offline": "https://statsify.net/cdn/assets/offline.png"
+  },
+  "emotes": {
+      "teams": {
+          "red": {
+              "team": "<:redTeam:828643357765009519>",
+              "one": "<:redOne:828643357911154768>",
+              "two": "<:redTwo:828643357903028274>",
+              "three": "<:redThree:828643357675880509>",
+              "four": "<:redFour:828643358053236758>"
+          },
+          "blue": {
+              "team": "<:blueTeam:828643357781786705>",
+              "one": "<:blueOne:828643357869473833>",
+              "two": "<:blueTwo:828643357889790002>",
+              "three": "<:blueThree:828643357764878357>",
+              "four": "<:blueFour:828643357923737610>"
+          }
+      },
+      "maps": {
+          "SkyFestival": "<:SkyFestival:828643358142365736>",
+          "Lectus": "<:Lectus:828643358091771974>",
+          "Katsu": "<:Katsu:828643357667885109>",
+          "Invasion": "<:Invasion:828643357931995158>",
+          "Enchanted": "<:Enchanted:828643357869604914>",
+          "Extinction": "<:Extinction:828643357554114592>",
+          "Boletum": "<:Boletum:828643358019944498>"
+      },
+      "online": "<:online:828643357889658907>",
+      "offline": "<:offline:828643357902372914>",
+      "loading": "<a:loading:828643357935796274>",
+      "pending": "<:pending:828643357869736036>",
+      "check": "<:check:828643358036590602>",
+      "cross": "<:cross:828643357836181585>"
+  },
+  "settings": {
+      "color": {
+          "win": "#92C98E",
+          "loss": "#DC2F2F",
+          "text": "#000",
+          "background": "#34EB9E"
+      }
+  },
+  "scoring": {
+      "teams": {
+          "red": {
+              "icon": "828643357765009519",
+              "players": [
+                  "828643357911154768",
+                  "828643357903028274",
+                  "828643357675880509",
+                  "828643358053236758"
+              ]
+          },
+          "blue": {
+              "icon": "828643357781786705",
+              "players": [
+                  "828643357869473833",
+                  "828643357889790002",
+                  "828643357764878357",
+                  "828643357923737610"
+              ]
+          }
+      },
+      "check": "828643358036590602",
+      "cross": "828643357836181585"
+  }
+}

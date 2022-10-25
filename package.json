@@ -1,0 +1,30 @@
+{
+  "name": "bwp-staff-rewrite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLotho/bwp-staff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLotho/bwp-staff/issues"
+  },
+  "homepage": "https://github.com/MLotho/bwp-staff#readme",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord.js": "github:discordjs/discord.js",
+    "minecraft-server-util": "^3.5.1",
+    "mineflayer": "^3.7.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2",
+    "mysql2": ""
+  }
+}
